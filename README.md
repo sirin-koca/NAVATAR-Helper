@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 
 
-NAVATAR-Helper is an AI-driven chatbot developed to assist with health-related NEET (Not in Education, Employment, or Training) queries. It leverages the **Retrieval-Augmented Generation (RAG)** framework to provide accurate, bilingual answers in **Norwegian** and **English** based on verified sources, while minimizing hallucinations.
+NAVATAR-Helper is an AI-driven RAG-based AI Chatbot, developed to assist with health-related NEET (Not in Education, Employment, or Training) queries. It leverages the **Retrieval-Augmented Generation (RAG)** framework to provide accurate, bilingual answers in **Norwegian** and **English** based on verified sources, while minimizing hallucinations.
 
 ## Overview
 
