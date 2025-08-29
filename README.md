@@ -1,4 +1,4 @@
-# NAVATAR-Helper
+# RAG chatbot
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Streamlit](https://img.shields.io/badge/Framework-Streamlit-red)](https://streamlit.io/)
@@ -68,8 +68,6 @@ NAVATAR-Helper is an AI-driven chatbot developed to assist with health-related N
 - A virtual environment for dependency management
 - Access to a GPU server (e.g., Nvidia GeForce GTX 1080 Ti or higher)
 - Git for version control
-
-### Team Members: Sirin, Rafey, Younes, Morten, Valeri
 
 ---
 
